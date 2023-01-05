@@ -5,8 +5,9 @@ The first line contains a non-empty string, that contains only lowercase English
 Output
 If it is a female by our hero's method, print "CHAT WITH HER!" (without the quotes), otherwise, print "IGNORE HIM!" (without the quotes).
 
-Examples
-inputCopy
+Examples:
+
+input: 
 wjmzbmr
-outputCopy
+output: 
 CHAT WITH HER!
